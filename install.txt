@@ -1,0 +1,21 @@
+Plugin e-DDC for SLiMS
+Cara Install Plugin:
+1.-Ekstrak file Plugin_e-DDC_(SLiMS_7).zip ke ../htdocs/slims/..
+atau
+-Pindah 4 Folder (admin, install, js, & template) ke ../htdocs/slims/..
+*timpa/replace file yang sama...
+
+2.-Buka phpMyAdmin untuk melakukan import content database e-DDC
+-Pilih database slims
+-Lakukan import, lokasi file ddc_db.sql ada di ../htdocs/slims/install/ddc_db.sql
+
+3.-Selesai, e-DDC siap digunakan.
+-untuk mengakses fitur ini, e-DDC ada di menu [add new bibliography]
+
+-Salam Damai untuk Semua-
+Website e-DDC       : http://www.e-ddc.org
+Mohamad Rotmianto   : http://www.facebook.com/rotmianto.mohamad
+Eko Wahyudi         : http://www.facebook.com/waaahyou
+Group Facebook      : http://www.facebook.com/groups/electronic.DDC
+
+
